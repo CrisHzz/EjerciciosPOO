@@ -1,8 +1,4 @@
-    class point:
-        def __init__(self, x, y):
-            self.x = x
-            self.y = y
-
+import ejercicio2
 
 def show_coordinates(self):
     print("x: ", self.x, "y: ", self.y)
