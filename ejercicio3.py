@@ -1,6 +1,8 @@
-import ejercicio2
-if __name__ == "__main__":
-    print("Ejercicio 3")
+    class point:
+        def __init__(self, x, y):
+            self.x = x
+            self.y = y
+
 
 def show_coordinates(self):
     print("x: ", self.x, "y: ", self.y)
